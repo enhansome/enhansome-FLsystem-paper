@@ -1,1 +1,187 @@
-# enhansome-FLsystem-paper
+# Awesome Federated Computation Systems Papers with stars
+
+A curated list of **FL system**-related academic papers, articles, tutorials, slides and projects.
+Star this repository, and then you can keep abreast of the latest developments of this booming research field.
+
+Papers with 🎓 have been peer-reviewed and presented in academic conferences.
+
+## Table of Contents
+
+* [Awesome Federated Computation Systems Papers](#awesome-federated-computation-systems-papers)
+  * [Table of Contents](#table-of-contents)
+  * [FL Systems from big tech companies](#fl-systems-from-big-tech-companies)
+    * [Paper](#paper)
+    * [Framework](#framework)
+    * [Vertical FL](#vertical-fl)
+  * [Open-source FL Framework](#open-source-fl-framework)
+  * [Edge / Mobile](#edge--mobile)
+  * [Federated Computation Systems](#federated-computation-systems)
+  * [Optimization for FL Systems](#optimization-for-fl-systems)
+  * [Security and Privacy](#security-and-privacy)
+  * [Real-world FL Application](#real-world-fl-application)
+  * [Real-world device traces](#real-world-device-traces)
+  * [Survey](#survey)
+  * [General insight for FL](#general-insight-for-fl)
+  * [Other FL paper list](#other-fl-paper-list)
+
+## FL Systems from big tech companies
+
+### Paper
+
+> Cross-device
+
+* **Apple**:  Federated Evaluation and Tuning for On-Device Personalization: System Design & Applications | [`PDF`](https://arxiv.org/pdf/2102.08503.pdf), [`PDF`](https://docs-assets.developer.apple.com/ml-research/papers/learning-with-privacy-at-scale.pdf)
+* **Google**: Towards Federated Learning at Scale: System Design | [`MLSys21`](https://arxiv.org/abs/1902.01046), [`Github`](https://www.tensorflow.org/federated)🎓
+* **Meta**: Papaya: Practical, Private, and Scalable Federated Learning | [`MLSys22`](https://arxiv.org/abs/2111.04877) 🎓
+* **Microsoft**:  FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations | [`PDF`](https://arxiv.org/abs/2203.13789), [`Github`](https://github.com/microsoft/msrflute) ⚠️ Archived
+* **Alibaba-1**:  FederatedScope: A Flexible Federated Learning Platform for Heterogeneity| [`PDF`](https://arxiv.org/pdf/2204.05011.pdf)
+* **Alibaba-2**:  FederatedScope: FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning |[`KDD22`](https://arxiv.org/abs/2204.05562) 🎓
+
+> Federated Analytics
+
+* **LinkedIn**: LinkedIn's Audience Engagements API: A Privacy Preserving Data Analytics System at Scale |
+  [`PDF`](https://arxiv.org/abs/2002.05839)
+* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 15,866 | 🐛 16 | 🌐 C++ | 📅 2026-08-12 🎓
+
+> Cross-silo
+
+* **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`FATE`](https://github.com/FederatedAI/FATE) ⭐ 6,089 | 🐛 21 | 🌐 Python | 📅 2024-11-19, [`KubeFATE`](https://github.com/FederatedAI/KubeFATE) ⭐ 436 | 🐛 83 | 🌐 Go | 📅 2024-10-31, [FATE-FLOW](https://federatedai.github.io/FATE-Flow/latest/fate_flow/), [FATE-LLM](https://arxiv.org/pdf/2310.10049.pdf)
+* **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf), [`Github`](https://github.com/NVIDIA/NVFlare) ⭐ 955 | 🐛 31 | 🌐 Python | 📅 2026-08-13
+* **IBM**: IBM Federated Learning: An Enterprise Framework White Paper | [`PDF`](https://arxiv.org/pdf/2007.10987.pdf), [`Github`](https://ibmfl.mybluemix.net/github)
+
+### Framework
+
+* OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft) ⭐ 9,938 | 🐛 21 | 🌐 Python | 📅 2026-08-12
+* Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow) ⭐ 2,691 | 🐛 93 | 🌐 Python | 📅 2026-04-24
+* ByteDance: Fedlearner | [`Github`](https://github.com/bytedance/fedlearner) ⭐ 902 | 🐛 79 | 🌐 Python | 📅 2026-07-06
+* Baidu: Paddle | [`Github`](https://github.com/PaddlePaddle/PaddleFL) ⭐ 512 | 🐛 56 | 🌐 Python | 📅 2023-07-26
+* Meta: FLSim | [`Github`](https://github.com/facebookresearch/FLSim) ⚠️ Archived
+* Cisco: Flame | [`Github`](https://github.com/cisco-open/flame) ⭐ 59 | 🐛 9 | 🌐 Python | 📅 2025-11-06
+  * [Federated Learning Operations Made Simple with Flame](https://arxiv.org/abs/2305.05118)
+* ZTE: Neursaf FL | [`Github`](https://github.com/neursafe/federated-learning) ⭐ 26 | 🐛 5 | 🌐 Python | 📅 2024-07-30
+
+### Vertical FL
+
+* OpenMined: PyVertical [`Github`](https://github.com/OpenMined/PyVertical) ⭐ 223 | 🐛 20 | 🌐 Python | 📅 2023-06-01, [`PDF`](https://arxiv.org/pdf/2104.00489.pdf)
+
+## Open-source FL Framework
+
+* [LEAF](https://github.com/TalwalkarLab/leaf) ⭐ 911 | 🐛 36 | 🌐 Python | 📅 2023-03-24: A Benchmark for Federated Settings | [NeurIPS 19](https://arxiv.org/pdf/1812.01097.pdf) 🎓
+* [FedLab](https://github.com/SMILELab-FL/FedLab) ⭐ 828 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-10-20: A flexible Federated Learning Framework based on PyTorch, simplifying your Federated Learning research.
+* [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) ⭐ 550 | 🐛 6 | 🌐 C++ | 📅 2022-04-26: A Privacy-Preserving Framework Based on TensorFlow
+* [**FedScale**](https://github.com/SymbioticLab/FedScale) ⭐ 420 | 🐛 45 | 🌐 Python | 📅 2023-12-18: Benchmarking Model and System Performance of Federated Learning | [ICML 22](https://arxiv.org/abs/2105.11367) 🎓
+* [FEDn](https://github.com/scaleoutsystems/fedn) ⭐ 169 | 🐛 2 | 🌐 Python | 📅 2026-07-10: A scalable, resilient and model agnostic hierarchical federated learning framework. - [Paper](https://arxiv.org/abs/2103.00148)
+* [FedEval](https://github.com/Di-Chai/FedEval) ⭐ 47 | 🐛 11 | 🌐 C++ | 📅 2024-04-26: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning
+* [EasyFL](https://github.com/EasyFL-AI/EasyFL) ⭐ 26 | 🐛 0 | 📅 2023-08-23: A Low-code Federated Learning Platform For Dummies
+* [Flower](https://flower.dev/): A Friendly Federated Learning Research Framework
+* [Sherpa](https://developers.sherpa.ai/privacy-technology/): Federated Learning and Differential Privacy Framework: Protect user privacy without renouncing the power of Artificial Intelligence
+* [FedML](https://fedml.ai/): A Research Library and Benchmark for Federated Machine Learning
+* [OpenFed](https://openfed.readthedocs.io/README.html): A Comprehensive and Versatile Open-Source Federated Learning Framework
+
+<p align="center">
+<img src="framework-summary.png" width="1000" height="700"/>
+</p>
+
+[Figure 1: Framework Functionality Support](https://unifedbenchmark.github.io/leaderboard/index.html)
+
+## FL x LLM
+
+* [FederatedScope-LLM](https://arxiv.org/abs/2309.00363): A Comprehensive Package for Fine-tuning Large Language Models in Federated Learning
+
+## Edge / Mobile
+
+* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 15,866 | 🐛 16 | 🌐 C++ | 📅 2026-08-12
+* Google: TFlite | [`Github`](https://www.tensorflow.org/lite/examples/on_device_training/overview), [`Github`](https://github.com/google/federated-compute) ⭐ 110 | 🐛 14 | 🌐 C++ | 📅 2026-08-11
+* MIT: Tiny Training Engine | [`Github`](https://tinytraining.mit.edu/)
+* [Private Compute Core Architecture](https://arxiv.org/pdf/2209.10317.pdf)
+* Enabling conversational interaction on mobile with LLMs | Google [`Blog`](https://ai.googleblog.com/2023/05/enabling-conversational-interaction-on.html?m=1)
+
+## Federated Computation Systems
+
+* [Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning](https://www.usenix.org/system/files/osdi22-lv.pdf) | OSDI 22 🎓
+* [Device-centric Federated Analytics At Ease](https://arxiv.org/pdf/2206.11491.pdf)
+* [λ-FL : Serverless Aggregation For Federated Learning](https://federated-learning.org/fl-aaai-2022/Papers/FL-AAAI-22_paper_44.pdf) | AAAI 22 🎓
+* [Characterizing and Optimizing End-to-End Systems for Private Inference](https://arxiv.org/abs/2207.07177) | ASPLOS 23 🎓
+* [STI: Turbocharge NLP Inference at the Edge via Elastic Pipelining](https://arxiv.org/abs/2207.05022) | ASPLOS 23 🎓
+
+## Optimization for FL Systems
+
+* [Oort: Efficient Federated Learning via Guided Participant Selection](https://www.usenix.org/conference/osdi21/presentation/lai) | OSDI 21 🎓
+* [Mistify: Automating DNN Model Porting for On-Device Inference at the Edge](https://www.usenix.org/conference/nsdi21/presentation/guo) | NSDI 21 🎓
+* [Pisces: Efficient Federated Learning via Guided Asynchronous Training](https://dl.acm.org/doi/abs/10.1145/3542929.3563463) | SoCC 22 🎓
+* [Resource-Efficient Federated Learning](https://arxiv.org/abs/2111.01108) | EuroSys 23 🎓
+* [Federated Learning with Buffered Asynchronous Aggregation](https://arxiv.org/abs/2106.06639?fbclid=IwAR2MqphvE6-_caw-MuXcjgHnFSXhJFdtbmqSEW92m-v_xeZCXXMJuqYx6Hs) | AISTATS 22 🎓
+* [Hermes: An Efficient Federated Learning Framework for Heterogeneous Mobile Clients](https://sites.duke.edu/angli/files/2021/10/2021_Mobicom_Hermes_v1.pdf) | MobiCom 21 🎓
+* [PyramidFL: A Fine-grained Client Selection Framework for efficient Federated Learning](https://cse.msu.edu/~caozc/papers/mobicom22-li.pdf) | MobiCom 22 🎓
+* [Federated Select: A Primitive for Communication- and Memory-Efficient Federated Learning](https://arxiv.org/abs/2208.09432) | Google
+* [Auxo](https://arxiv.org/abs/2210.16656): Heterogeneity-Mitigating Federated Learning via Scalable Client Clustering | SoCC' 23
+* [Pisces](https://dl.acm.org/doi/abs/10.1145/3542929.3563463): efficient federated learning via guided asynchronous training| SoCC' 22
+* [GlueFL](https://arxiv.org/pdf/2212.01523.pdf): Reconciling Client Sampling and Model Masking for Bandwidth Efficient Federated Learning | MLSys' 23
+* [Towards Non-I.I.D. and Invisible Data with FedNAS: Federated Deep Learning via Neural Architecture Search](https://arxiv.org/abs/2004.08546) | CVPR 20 workshop 🎓
+* [HeteroFL: Computation and Communication Efficient Federated Learning for Heterogeneous Clients](https://arxiv.org/abs/2010.01264) | ICLR 21 🎓
+* [FedorAS: Federated Architecture Search under system heterogeneity](https://arxiv.org/abs/2206.11239) | Samsung
+* [Venn](https://arxiv.org/abs/2312.08298): Resource Management Across Federated Learning Jobs | Umich
+
+### Energy-efficiency
+
+* [Green Federated Learning](https://arxiv.org/pdf/2303.14604.pdf) | Meta
+* [A first look into the carbon footprint of federated learning](https://arxiv.org/abs/2102.07627) | Flower
+
+## Security and Privacy
+
+> Security
+
+* SIMC: ML Inference Secure Against Malicious Clients at Semi-Honest Cost	[`PDF`](https://www.usenix.org/conference/usenixsecurity22/presentation/chandran)
+* Secure Federated Learning for Neuroimaging [`PDF`](https://arxiv.org/pdf/2205.05249.pdf)
+
+*incoming*
+
+> Privacy
+
+* The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation [`PDF`](https://arxiv.org/pdf/2102.06387.pdf)
+* Differential Privacy reading list | [`Github`](https://github.com/JeffffFu/Awesome-Differential-Privacy-and-Meachine-Learning) ⭐ 388 | 🐛 0 | 🌐 Python | 📅 2025-09-02
+
+*incoming*
+
+## Real-world FL Application
+
+* Google keyboard query suggestions [`PDF`](https://arxiv.org/pdf/1812.02903.pdf) (2018)
+* Google mobile keyboard prediction [`PDF`](https://arxiv.org/pdf/1811.03604.pdf)
+* Google Out-Of-Vocabulary Words [`PDF`](https://arxiv.org/pdf/1903.10635.pdf)
+* Google Emoji Prediction in a Mobile Keyboard [`PDF`](https://arxiv.org/pdf/1906.04329.pdf)
+* Google Training Speech Recognition Models (2021) [`PDF`](https://arxiv.org/abs/2010.15965)
+* Google Federated Learning of Gboard Language Models with Differential Privacy [`PDF`](https://arxiv.org/pdf/2305.18465.pdf)
+* Advancing health research with Google Health Studies (2020) [`Website`](https://blog.google/technology/health/google-health-studies-app/)
+* Federated Evaluation of On-device Personalization [`PDF`](https://arxiv.org/pdf/1910.10252.pdf)
+
+## Real-world device traces
+
+* Mobile AI benchmark [`Website`](https://ai-benchmark.com/ranking_detailed.html)
+* Mobile Access Bandwidth in Practice: Measurement, Analysis, and Implications [`Website`](https://mobilebandwidth.github.io/#data-release)
+* Real-world data partition FL dataset | FedScale [`Website`](https://fedscale.ai/docs/dataset)
+* Mobile availability (client behavior) trace | Characterizing impacts of heterogeneity in federated learning upon large-scale smartphone data. [`Website`](https://github.com/PKU-Chengxu/FLASH) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2022-06-02
+
+## Survey
+
+* [**UNIFED: A Benchmark for Federated Learning Frameworks**](https://unifedbenchmark.github.io/)
+* [Towards Efficient Synchronous Federated Training: A Survey on System Optimization Strategies](https://arxiv.org/abs/2109.03999)
+* [A Survey on Federated Learning Systems: Vision, Hype and Reality for Data Privacy and Protection](https://arxiv.org/pdf/1907.09693.pdf)
+* [A Field Guide to Federated Optimization](https://arxiv.org/abs/2107.06917)
+* [Characterizing Impacts of Heterogeneity in Federated Learning upon Large-Scale Smartphone Data](https://arxiv.org/pdf/2006.06983.pdf)
+* [Advances and Open Problems in Federated Learning](https://arxiv.org/pdf/1912.04977.pdf)
+
+## General insight for FL
+
+* [On Large-Cohort Training for Federated Learning](https://openreview.net/forum?id=Kb26p7chwhf) | NeurIPS 2021 🎓
+* [What Do We Mean by Generalization in Federated Learning?](https://openreview.net/forum?id=VimqQq-i_Q) | ICLR 2022 🎓
+
+## Other FL paper list
+
+* <https://github.com/innovation-cat/Awesome-Federated-Machine-Learning> ⭐ 2,090 | 🐛 7 | 📅 2024-05-30
+* <https://github.com/chaoyanghe/Awesome-Federated-Learning> ⭐ 2,016 | 🐛 3 | 📅 2022-09-03
+* <https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data#federated-learning-framework> ⭐ 2,008 | 🐛 0 | 🌐 Python | 📅 2026-05-20
+* <https://github.com/weimingwill/awesome-federated-learning#resource-allocation> ⭐ 738 | 🐛 0 | 🌐 Shell | 📅 2025-11-16
+
+***
+
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
