@@ -224,10 +224,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-14T15:31:34Z",
+            "last_commit": "2026-08-17T02:55:21Z",
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15884
+            "stars": 15889
           }
         },
         {
@@ -275,7 +275,7 @@
             "last_commit": "2022-09-03T20:03:02Z",
             "owner": "chaoyanghe",
             "repo": "Awesome-Federated-Learning",
-            "stars": 2016
+            "stars": 2017
           }
         },
         {
@@ -289,7 +289,7 @@
             "last_commit": "2026-05-20T12:48:40Z",
             "owner": "youngfish42",
             "repo": "Awesome-FL",
-            "stars": 2009
+            "stars": 2012
           }
         },
         {
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:55:43.832Z",
+    "last_updated": "2026-08-17T08:09:20.923Z",
     "original_repository": "AmberLJC/FLsystem-paper",
     "original_repository_sha": "76f198ed3b3c032e2c574fa61088fda1b82b7426",
     "enhanced_repository": "enhansome/enhansome-FLsystem-paper",
