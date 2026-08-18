@@ -19,7 +19,7 @@
             "last_commit": "2026-08-14T12:39:22Z",
             "owner": "OpenMined",
             "repo": "PySyft",
-            "stars": 9936
+            "stars": 9940
           }
         },
         {
@@ -224,10 +224,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T02:55:21Z",
+            "last_commit": "2026-08-18T06:27:40Z",
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15889
+            "stars": 15894
           }
         },
         {
@@ -311,7 +311,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:09:20.923Z",
+    "last_updated": "2026-08-18T08:04:36.845Z",
     "original_repository": "AmberLJC/FLsystem-paper",
     "original_repository_sha": "76f198ed3b3c032e2c574fa61088fda1b82b7426",
     "enhanced_repository": "enhansome/enhansome-FLsystem-paper",
