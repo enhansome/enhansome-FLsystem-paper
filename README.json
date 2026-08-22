@@ -29,7 +29,7 @@
                 "archived": false,
                 "id": 388876833,
                 "language": "Python",
-                "last_commit": "2026-08-21T00:01:10Z",
+                "last_commit": "2026-08-21T23:42:04Z",
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
                 "stars": 957
@@ -54,7 +54,7 @@
                 "last_commit": "2026-08-20T15:39:57Z",
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 9955
+                "stars": 9956
               }
             },
             {
@@ -84,7 +84,7 @@
                 "last_commit": "2026-07-06T09:32:31Z",
                 "owner": "bytedance",
                 "repo": "fedlearner",
-                "stars": 902
+                "stars": 901
               }
             },
             {
@@ -278,10 +278,10 @@
             "archived": false,
             "id": 181436799,
             "language": "C++",
-            "last_commit": "2026-08-20T11:41:32Z",
+            "last_commit": "2026-08-22T05:42:05Z",
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15942
+            "stars": 15944
           }
         },
         {
@@ -362,7 +362,7 @@
             "last_commit": "2025-11-16T16:14:13Z",
             "owner": "weimingwill",
             "repo": "awesome-federated-learning",
-            "stars": 737
+            "stars": 736
           }
         }
       ],
@@ -370,7 +370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:08:25.084Z",
+    "last_updated": "2026-08-22T07:56:31.323Z",
     "original_repository": "AmberLJC/FLsystem-paper",
     "original_repository_id": 485567517,
     "original_repository_sha": "76f198ed3b3c032e2c574fa61088fda1b82b7426",
