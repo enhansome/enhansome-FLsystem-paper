@@ -17,7 +17,7 @@
                 "last_commit": "2024-11-19T08:19:11Z",
                 "owner": "FederatedAI",
                 "repo": "FATE",
-                "stars": 6089
+                "stars": 6090
               }
             },
             {
@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-21T23:42:04Z",
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
-                "stars": 957
+                "stars": 958
               }
             }
           ],
@@ -69,7 +69,7 @@
                 "last_commit": "2026-04-24T07:57:55Z",
                 "owner": "secretflow",
                 "repo": "secretflow",
-                "stars": 2693
+                "stars": 2694
               }
             },
             {
@@ -281,7 +281,7 @@
             "last_commit": "2026-08-22T05:42:05Z",
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15944
+            "stars": 15949
           }
         },
         {
@@ -347,7 +347,7 @@
             "last_commit": "2026-05-20T12:48:40Z",
             "owner": "youngfish42",
             "repo": "Awesome-FL",
-            "stars": 2011
+            "stars": 2012
           }
         },
         {
@@ -370,7 +370,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:56:31.323Z",
+    "last_updated": "2026-08-23T07:58:26.191Z",
     "original_repository": "AmberLJC/FLsystem-paper",
     "original_repository_id": 485567517,
     "original_repository_sha": "76f198ed3b3c032e2c574fa61088fda1b82b7426",
