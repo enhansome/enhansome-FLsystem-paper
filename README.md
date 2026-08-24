@@ -30,18 +30,18 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 > Cross-device
 
+* **Microsoft**:  FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations | [`PDF`](https://arxiv.org/abs/2203.13789), [`Github`](https://github.com/microsoft/msrflute) ⚠️ Archived
 * **Apple**:  Federated Evaluation and Tuning for On-Device Personalization: System Design & Applications | [`PDF`](https://arxiv.org/pdf/2102.08503.pdf), [`PDF`](https://docs-assets.developer.apple.com/ml-research/papers/learning-with-privacy-at-scale.pdf)
 * **Google**: Towards Federated Learning at Scale: System Design | [`MLSys21`](https://arxiv.org/abs/1902.01046), [`Github`](https://www.tensorflow.org/federated)🎓
 * **Meta**: Papaya: Practical, Private, and Scalable Federated Learning | [`MLSys22`](https://arxiv.org/abs/2111.04877) 🎓
-* **Microsoft**:  FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations | [`PDF`](https://arxiv.org/abs/2203.13789), [`Github`](https://github.com/microsoft/msrflute) ⚠️ Archived
 * **Alibaba-1**:  FederatedScope: A Flexible Federated Learning Platform for Heterogeneity| [`PDF`](https://arxiv.org/pdf/2204.05011.pdf)
 * **Alibaba-2**:  FederatedScope: FederatedScope-GNN: Towards a Unified, Comprehensive and Efficient Package for Federated Graph Learning |[`KDD22`](https://arxiv.org/abs/2204.05562) 🎓
 
 > Federated Analytics
 
+* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 15,958 | 🐛 32 | 🌐 C++ | 📅 2026-08-24 🎓
 * **LinkedIn**: LinkedIn's Audience Engagements API: A Privacy Preserving Data Analytics System at Scale |
   [`PDF`](https://arxiv.org/abs/2002.05839)
-* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 15,957 | 🐛 31 | 🌐 C++ | 📅 2026-08-22 🎓
 
 > Cross-silo
 
@@ -51,7 +51,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ### Framework
 
-* OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft) ⭐ 9,956 | 🐛 23 | 🌐 Python | 📅 2026-08-20
+* OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft) ⭐ 9,956 | 🐛 22 | 🌐 Python | 📅 2026-08-24
 * Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow) ⭐ 2,694 | 🐛 92 | 🌐 Python | 📅 2026-04-24
 * ByteDance: Fedlearner | [`Github`](https://github.com/bytedance/fedlearner) ⭐ 901 | 🐛 79 | 🌐 Python | 📅 2026-07-06
 * Baidu: Paddle | [`Github`](https://github.com/PaddlePaddle/PaddleFL) ⭐ 512 | 🐛 56 | 🌐 Python | 📅 2023-07-26
@@ -90,7 +90,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ## Edge / Mobile
 
-* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 15,957 | 🐛 31 | 🌐 C++ | 📅 2026-08-22
+* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 15,958 | 🐛 32 | 🌐 C++ | 📅 2026-08-24
 * Google: TFlite | [`Github`](https://www.tensorflow.org/lite/examples/on_device_training/overview), [`Github`](https://github.com/google/federated-compute) ⭐ 110 | 🐛 14 | 🌐 C++ | 📅 2026-08-20
 * MIT: Tiny Training Engine | [`Github`](https://tinytraining.mit.edu/)
 * [Private Compute Core Architecture](https://arxiv.org/pdf/2209.10317.pdf)
@@ -138,8 +138,8 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 > Privacy
 
-* The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation [`PDF`](https://arxiv.org/pdf/2102.06387.pdf)
 * Differential Privacy reading list | [`Github`](https://github.com/JeffffFu/Awesome-Differential-Privacy-and-Meachine-Learning) ⭐ 387 | 🐛 0 | 🌐 Python | 📅 2025-09-02
+* The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation [`PDF`](https://arxiv.org/pdf/2102.06387.pdf)
 
 *incoming*
 
@@ -156,10 +156,10 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ## Real-world device traces
 
+* Mobile availability (client behavior) trace | Characterizing impacts of heterogeneity in federated learning upon large-scale smartphone data. [`Website`](https://github.com/PKU-Chengxu/FLASH) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2022-06-02
 * Mobile AI benchmark [`Website`](https://ai-benchmark.com/ranking_detailed.html)
 * Mobile Access Bandwidth in Practice: Measurement, Analysis, and Implications [`Website`](https://mobilebandwidth.github.io/#data-release)
 * Real-world data partition FL dataset | FedScale [`Website`](https://fedscale.ai/docs/dataset)
-* Mobile availability (client behavior) trace | Characterizing impacts of heterogeneity in federated learning upon large-scale smartphone data. [`Website`](https://github.com/PKU-Chengxu/FLASH) ⭐ 48 | 🐛 0 | 🌐 Python | 📅 2022-06-02
 
 ## Survey
 
