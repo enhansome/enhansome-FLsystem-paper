@@ -29,10 +29,10 @@
                 "archived": false,
                 "id": 181436799,
                 "language": "C++",
-                "last_commit": "2026-08-24T08:30:11Z",
+                "last_commit": "2026-08-25T03:07:57Z",
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 15958
+                "stars": 15962
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-11-19T08:19:11Z",
                 "owner": "FederatedAI",
                 "repo": "FATE",
-                "stars": 6089
+                "stars": 6088
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 388876833,
                 "language": "Python",
-                "last_commit": "2026-08-23T16:23:37Z",
+                "last_commit": "2026-08-25T00:38:12Z",
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
                 "stars": 959
@@ -330,10 +330,10 @@
             "archived": false,
             "id": 181436799,
             "language": "C++",
-            "last_commit": "2026-08-24T08:30:11Z",
+            "last_commit": "2026-08-25T03:07:57Z",
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15958
+            "stars": 15962
           }
         },
         {
@@ -401,7 +401,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "https://github.com/innovation-cat/Awesome-Federated-Machine-Learning",
+          "title": "innovation-cat/Awesome-Federated-Machine-Learning",
           "description": null,
           "children": [],
           "repo_info": {
@@ -416,7 +416,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/chaoyanghe/Awesome-Federated-Learning",
+          "title": "chaoyanghe/Awesome-Federated-Learning",
           "description": null,
           "children": [],
           "repo_info": {
@@ -431,7 +431,7 @@
         },
         {
           "node_type": "item",
-          "title": "https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data#federated-learning-framework",
+          "title": "youngfish42/Awesome-FL",
           "description": null,
           "children": [],
           "repo_info": {
@@ -441,12 +441,12 @@
             "last_commit": "2026-05-20T12:48:40Z",
             "owner": "youngfish42",
             "repo": "Awesome-FL",
-            "stars": 2012
+            "stars": 2013
           }
         },
         {
           "node_type": "item",
-          "title": "https://github.com/weimingwill/awesome-federated-learning#resource-allocation",
+          "title": "weimingwill/awesome-federated-learning",
           "description": null,
           "children": [],
           "repo_info": {
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:45:34.334Z",
+    "last_updated": "2026-08-25T06:34:39.456Z",
     "original_repository": "AmberLJC/FLsystem-paper",
     "original_repository_id": 485567517,
     "original_repository_sha": "76f198ed3b3c032e2c574fa61088fda1b82b7426",
