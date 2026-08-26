@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-25T07:22:34Z",
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 15963
+                "stars": 15969
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2024-11-19T08:19:11Z",
                 "owner": "FederatedAI",
                 "repo": "FATE",
-                "stars": 6088
+                "stars": 6089
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 388876833,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:38:12Z",
+                "last_commit": "2026-08-25T23:43:12Z",
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
                 "stars": 959
@@ -99,7 +99,7 @@
                 "last_commit": "2026-04-24T07:57:55Z",
                 "owner": "secretflow",
                 "repo": "secretflow",
-                "stars": 2694
+                "stars": 2695
               }
             },
             {
@@ -237,7 +237,7 @@
             "last_commit": "2025-10-20T15:41:06Z",
             "owner": "SMILELab-FL",
             "repo": "FedLab",
-            "stars": 827
+            "stars": 828
           }
         },
         {
@@ -333,7 +333,7 @@
             "last_commit": "2026-08-25T07:22:34Z",
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15963
+            "stars": 15969
           }
         },
         {
@@ -345,7 +345,7 @@
             "archived": false,
             "id": 406414439,
             "language": "C++",
-            "last_commit": "2026-08-20T21:11:56Z",
+            "last_commit": "2026-08-25T23:59:33Z",
             "owner": "google-parfait",
             "repo": "federated-compute",
             "stars": 110
@@ -411,7 +411,7 @@
             "last_commit": "2024-05-30T21:21:42Z",
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2090
+            "stars": 2091
           }
         },
         {
@@ -456,7 +456,7 @@
             "last_commit": "2025-11-16T16:14:13Z",
             "owner": "weimingwill",
             "repo": "awesome-federated-learning",
-            "stars": 736
+            "stars": 737
           }
         }
       ],
@@ -464,7 +464,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T08:10:22.922Z",
+    "last_updated": "2026-08-26T08:10:23.347Z",
     "original_repository": "AmberLJC/FLsystem-paper",
     "original_repository_id": 485567517,
     "original_repository_sha": "76f198ed3b3c032e2c574fa61088fda1b82b7426",
