@@ -32,7 +32,7 @@
                 "last_commit": "2026-08-25T07:22:34Z",
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 15969
+                "stars": 15975
               }
             },
             {
@@ -59,7 +59,7 @@
                 "archived": false,
                 "id": 388876833,
                 "language": "Python",
-                "last_commit": "2026-08-25T23:43:12Z",
+                "last_commit": "2026-08-27T00:04:22Z",
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
                 "stars": 959
@@ -81,7 +81,7 @@
                 "archived": false,
                 "id": 97641933,
                 "language": "Python",
-                "last_commit": "2026-08-24T09:58:36Z",
+                "last_commit": "2026-08-26T18:58:33Z",
                 "owner": "OpenMined",
                 "repo": "PySyft",
                 "stars": 9957
@@ -333,7 +333,7 @@
             "last_commit": "2026-08-25T07:22:34Z",
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15969
+            "stars": 15975
           }
         },
         {
@@ -464,9 +464,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:10:23.347Z",
-    "original_repository": "AmberLJC/FLsystem-paper",
-    "original_repository_id": 485567517,
+    "last_updated": "2026-08-27T11:38:20.294Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 485567517,
+      "language": null,
+      "last_commit": "2024-02-07T05:08:39Z",
+      "owner": "AmberLJC",
+      "repo": "FLsystem-paper",
+      "stars": 75
+    },
     "original_repository_sha": "76f198ed3b3c032e2c574fa61088fda1b82b7426",
     "enhanced_repository": "enhansome/enhansome-FLsystem-paper",
     "enhanced_repository_description": null,
