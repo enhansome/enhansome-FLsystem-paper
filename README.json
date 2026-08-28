@@ -18,7 +18,8 @@
                 "owner": "microsoft",
                 "repo": "msrflute",
                 "stars": 194
-              }
+              },
+              "first_seen": "2026-08-28T19:33:53.731Z"
             },
             {
               "node_type": "item",
@@ -29,11 +30,12 @@
                 "archived": false,
                 "id": 181436799,
                 "language": "C++",
-                "last_commit": "2026-08-25T07:22:34Z",
+                "last_commit": "2026-08-28T03:46:12Z",
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 15976
-              }
+                "stars": 15985
+              },
+              "first_seen": "2026-08-28T19:33:53.731Z"
             },
             {
               "node_type": "item",
@@ -48,7 +50,8 @@
                 "owner": "FederatedAI",
                 "repo": "FATE",
                 "stars": 6090
-              }
+              },
+              "first_seen": "2026-08-28T19:33:53.731Z"
             },
             {
               "node_type": "item",
@@ -59,11 +62,12 @@
                 "archived": false,
                 "id": 388876833,
                 "language": "Python",
-                "last_commit": "2026-08-27T16:43:23Z",
+                "last_commit": "2026-08-28T17:29:43Z",
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
                 "stars": 960
-              }
+              },
+              "first_seen": "2026-08-28T19:33:53.731Z"
             }
           ],
           "description": "Cross-device\nFederated Analytics\nCross-silo",
@@ -81,11 +85,12 @@
                 "archived": false,
                 "id": 97641933,
                 "language": "Python",
-                "last_commit": "2026-08-27T13:32:48Z",
+                "last_commit": "2026-08-28T14:11:18Z",
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 9957
-              }
+                "stars": 9958
+              },
+              "first_seen": "2026-08-28T19:33:53.731Z"
             },
             {
               "node_type": "item",
@@ -100,7 +105,8 @@
                 "owner": "secretflow",
                 "repo": "secretflow",
                 "stars": 2695
-              }
+              },
+              "first_seen": "2026-08-28T19:33:53.731Z"
             },
             {
               "node_type": "item",
@@ -115,7 +121,8 @@
                 "owner": "bytedance",
                 "repo": "fedlearner",
                 "stars": 901
-              }
+              },
+              "first_seen": "2026-08-28T19:33:53.731Z"
             },
             {
               "node_type": "item",
@@ -130,7 +137,8 @@
                 "owner": "PaddlePaddle",
                 "repo": "PaddleFL",
                 "stars": 512
-              }
+              },
+              "first_seen": "2026-08-28T19:33:53.731Z"
             },
             {
               "node_type": "item",
@@ -145,7 +153,8 @@
                 "owner": "facebookresearch",
                 "repo": "FLSim",
                 "stars": 270
-              }
+              },
+              "first_seen": "2026-08-28T19:33:53.731Z"
             },
             {
               "node_type": "item",
@@ -160,7 +169,8 @@
                 "owner": "cisco-open",
                 "repo": "flame",
                 "stars": 59
-              }
+              },
+              "first_seen": "2026-08-28T19:33:53.731Z"
             },
             {
               "node_type": "item",
@@ -175,7 +185,8 @@
                 "owner": "YanshiShield",
                 "repo": "YanshiShield",
                 "stars": 26
-              }
+              },
+              "first_seen": "2026-08-28T19:33:53.731Z"
             }
           ],
           "description": null,
@@ -197,7 +208,8 @@
                 "owner": "OpenMined",
                 "repo": "PyVertical",
                 "stars": 222
-              }
+              },
+              "first_seen": "2026-08-28T19:33:53.731Z"
             }
           ],
           "description": null,
@@ -223,7 +235,8 @@
             "owner": "TalwalkarLab",
             "repo": "leaf",
             "stars": 911
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         },
         {
           "node_type": "item",
@@ -238,7 +251,8 @@
             "owner": "SMILELab-FL",
             "repo": "FedLab",
             "stars": 828
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         },
         {
           "node_type": "item",
@@ -253,7 +267,8 @@
             "owner": "LatticeX-Foundation",
             "repo": "Rosetta",
             "stars": 550
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         },
         {
           "node_type": "item",
@@ -268,7 +283,8 @@
             "owner": "SymbioticLab",
             "repo": "FedScale",
             "stars": 420
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         },
         {
           "node_type": "item",
@@ -283,7 +299,8 @@
             "owner": "scaleoutsystems",
             "repo": "scaleout-client",
             "stars": 169
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         },
         {
           "node_type": "item",
@@ -298,7 +315,8 @@
             "owner": "Di-Chai",
             "repo": "FedEval",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         },
         {
           "node_type": "item",
@@ -313,7 +331,8 @@
             "owner": "EasyFL-AI",
             "repo": "EasyFL",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         }
       ],
       "title": "Open-source FL Framework"
@@ -330,11 +349,12 @@
             "archived": false,
             "id": 181436799,
             "language": "C++",
-            "last_commit": "2026-08-25T07:22:34Z",
+            "last_commit": "2026-08-28T03:46:12Z",
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15976
-          }
+            "stars": 15985
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         },
         {
           "node_type": "item",
@@ -345,11 +365,12 @@
             "archived": false,
             "id": 406414439,
             "language": "C++",
-            "last_commit": "2026-08-25T23:59:33Z",
+            "last_commit": "2026-08-28T01:22:39Z",
             "owner": "google-parfait",
             "repo": "federated-compute",
             "stars": 110
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         }
       ],
       "title": "Edge / Mobile"
@@ -370,7 +391,8 @@
             "owner": "JeffffffFu",
             "repo": "Awesome-Differential-Privacy-and-Meachine-Learning",
             "stars": 387
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         }
       ],
       "title": "Security and Privacy"
@@ -391,7 +413,8 @@
             "owner": "PKU-Chengxu",
             "repo": "FLASH",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         }
       ],
       "title": "Real-world device traces"
@@ -412,7 +435,8 @@
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
             "stars": 2091
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         },
         {
           "node_type": "item",
@@ -427,7 +451,8 @@
             "owner": "chaoyanghe",
             "repo": "Awesome-Federated-Learning",
             "stars": 2016
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         },
         {
           "node_type": "item",
@@ -442,7 +467,8 @@
             "owner": "youngfish42",
             "repo": "Awesome-FL",
             "stars": 2014
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         },
         {
           "node_type": "item",
@@ -457,14 +483,15 @@
             "owner": "weimingwill",
             "repo": "awesome-federated-learning",
             "stars": 737
-          }
+          },
+          "first_seen": "2026-08-28T19:33:53.731Z"
         }
       ],
       "title": "Other FL paper list"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:23:12.350Z",
+    "last_updated": "2026-08-28T19:33:53.731Z",
     "original_repository_info": {
       "archived": false,
       "id": 485567517,
