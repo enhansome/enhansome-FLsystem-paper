@@ -50,7 +50,7 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T03:46:12Z",
-                "open_issues": 40,
+                "open_issues": 41,
                 "owner": "alibaba",
                 "repo": "MNN",
                 "stars": 15990,
@@ -86,7 +86,7 @@
                 "open_issues": 18,
                 "owner": "FederatedAI",
                 "repo": "FATE",
-                "stars": 6090,
+                "stars": 6089,
                 "topics": [
                   "algorithm",
                   "fate",
@@ -149,7 +149,7 @@
                 "open_issues": 21,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 9976,
+                "stars": 9991,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -554,7 +554,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T03:46:12Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "alibaba",
             "repo": "MNN",
             "stars": 15990,
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:05:17.461Z",
+    "last_updated": "2026-08-29T13:19:38.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
