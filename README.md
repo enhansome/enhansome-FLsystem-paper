@@ -39,20 +39,20 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 > Federated Analytics
 
-* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 15,994 | 🐛 42 | 🌐 C++ | 📅 2026-08-28 🎓
+* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 16,001 | 🐛 43 | 🌐 C++ | 📅 2026-08-31 🎓
 * **LinkedIn**: LinkedIn's Audience Engagements API: A Privacy Preserving Data Analytics System at Scale |
   [`PDF`](https://arxiv.org/abs/2002.05839)
 
 > Cross-silo
 
-* **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`FATE`](https://github.com/FederatedAI/FATE) ⭐ 6,091 | 🐛 18 | 🌐 Python | 📅 2024-11-19, [`KubeFATE`](https://github.com/FederatedAI/KubeFATE) ⭐ 435 | 🐛 83 | 🌐 Go | 📅 2024-10-31, [FATE-FLOW](https://federatedai.github.io/FATE-Flow/latest/fate_flow/), [FATE-LLM](https://arxiv.org/pdf/2310.10049.pdf)
+* **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`FATE`](https://github.com/FederatedAI/FATE) ⭐ 6,090 | 🐛 18 | 🌐 Python | 📅 2024-11-19, [`KubeFATE`](https://github.com/FederatedAI/KubeFATE) ⭐ 435 | 🐛 83 | 🌐 Go | 📅 2024-10-31, [FATE-FLOW](https://federatedai.github.io/FATE-Flow/latest/fate_flow/), [FATE-LLM](https://arxiv.org/pdf/2310.10049.pdf)
 * **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf), [`Github`](https://github.com/NVIDIA/NVFlare) ⭐ 961 | 🐛 20 | 🌐 Python | 📅 2026-08-30
 * **IBM**: IBM Federated Learning: An Enterprise Framework White Paper | [`PDF`](https://arxiv.org/pdf/2007.10987.pdf), [`Github`](https://ibmfl.mybluemix.net/github)
 
 ### Framework
 
-* OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft) ⭐ 10,014 | 🐛 20 | 🌐 Python | 📅 2026-08-28
-* Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow) ⭐ 2,695 | 🐛 92 | 🌐 Python | 📅 2026-04-24
+* OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft) ⭐ 10,018 | 🐛 20 | 🌐 Python | 📅 2026-08-28
+* Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow) ⭐ 2,697 | 🐛 92 | 🌐 Python | 📅 2026-04-24
 * ByteDance: Fedlearner | [`Github`](https://github.com/bytedance/fedlearner) ⭐ 901 | 🐛 79 | 🌐 Python | 📅 2026-07-06
 * Baidu: Paddle | [`Github`](https://github.com/PaddlePaddle/PaddleFL) ⭐ 512 | 🐛 56 | 🌐 Python | 📅 2023-07-26
 * Meta: FLSim | [`Github`](https://github.com/facebookresearch/FLSim) ⚠️ Archived
@@ -66,8 +66,8 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ## Open-source FL Framework
 
-* [LEAF](https://github.com/TalwalkarLab/leaf) ⭐ 911 | 🐛 36 | 🌐 Python | 📅 2023-03-24: A Benchmark for Federated Settings | [NeurIPS 19](https://arxiv.org/pdf/1812.01097.pdf) 🎓
-* [FedLab](https://github.com/SMILELab-FL/FedLab) ⭐ 829 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-10-20: A flexible Federated Learning Framework based on PyTorch, simplifying your Federated Learning research.
+* [LEAF](https://github.com/TalwalkarLab/leaf) ⭐ 910 | 🐛 36 | 🌐 Python | 📅 2023-03-24: A Benchmark for Federated Settings | [NeurIPS 19](https://arxiv.org/pdf/1812.01097.pdf) 🎓
+* [FedLab](https://github.com/SMILELab-FL/FedLab) ⭐ 828 | 🐛 8 | 🌐 Jupyter Notebook | 📅 2025-10-20: A flexible Federated Learning Framework based on PyTorch, simplifying your Federated Learning research.
 * [Rosetta](https://github.com/LatticeX-Foundation/Rosetta) ⭐ 550 | 🐛 6 | 🌐 C++ | 📅 2022-04-26: A Privacy-Preserving Framework Based on TensorFlow
 * [**FedScale**](https://github.com/SymbioticLab/FedScale) ⭐ 420 | 🐛 45 | 🌐 Python | 📅 2023-12-18: Benchmarking Model and System Performance of Federated Learning | [ICML 22](https://arxiv.org/abs/2105.11367) 🎓
 * [FEDn](https://github.com/scaleoutsystems/fedn) ⭐ 169 | 🐛 2 | 🌐 Python | 📅 2026-07-10: A scalable, resilient and model agnostic hierarchical federated learning framework. - [Paper](https://arxiv.org/abs/2103.00148)
@@ -90,7 +90,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ## Edge / Mobile
 
-* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 15,994 | 🐛 42 | 🌐 C++ | 📅 2026-08-28
+* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 16,001 | 🐛 43 | 🌐 C++ | 📅 2026-08-31
 * Google: TFlite | [`Github`](https://www.tensorflow.org/lite/examples/on_device_training/overview), [`Github`](https://github.com/google/federated-compute) ⭐ 110 | 🐛 14 | 🌐 C++ | 📅 2026-08-28
 * MIT: Tiny Training Engine | [`Github`](https://tinytraining.mit.edu/)
 * [Private Compute Core Architecture](https://arxiv.org/pdf/2209.10317.pdf)
@@ -179,9 +179,9 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 * <https://github.com/innovation-cat/Awesome-Federated-Machine-Learning> ⭐ 2,092 | 🐛 7 | 📅 2024-05-30
 * <https://github.com/chaoyanghe/Awesome-Federated-Learning> ⭐ 2,018 | 🐛 3 | 📅 2022-09-03
-* <https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data#federated-learning-framework> ⭐ 2,014 | 🐛 0 | 🌐 Python | 📅 2026-05-20
+* <https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data#federated-learning-framework> ⭐ 2,012 | 🐛 0 | 🌐 Python | 📅 2026-05-20
 * <https://github.com/weimingwill/awesome-federated-learning#resource-allocation> ⭐ 737 | 🐛 0 | 🌐 Shell | 📅 2025-11-16
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._

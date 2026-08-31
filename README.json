@@ -49,11 +49,11 @@
                 "id": 181436799,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T03:46:12Z",
-                "open_issues": 42,
+                "last_commit": "2026-08-31T09:08:05Z",
+                "open_issues": 43,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 15994,
+                "stars": 16001,
                 "topics": [
                   "arm",
                   "convolution",
@@ -86,7 +86,7 @@
                 "open_issues": 18,
                 "owner": "FederatedAI",
                 "repo": "FATE",
-                "stars": 6091,
+                "stars": 6090,
                 "topics": [
                   "algorithm",
                   "fate",
@@ -149,7 +149,7 @@
                 "open_issues": 20,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10014,
+                "stars": 10018,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -180,7 +180,7 @@
                 "open_issues": 92,
                 "owner": "secretflow",
                 "repo": "secretflow",
-                "stars": 2695,
+                "stars": 2697,
                 "topics": [
                   "confidential-computing",
                   "data-analysis",
@@ -365,7 +365,7 @@
             "open_issues": 36,
             "owner": "TalwalkarLab",
             "repo": "leaf",
-            "stars": 911,
+            "stars": 910,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:53.731Z"
@@ -386,7 +386,7 @@
             "open_issues": 8,
             "owner": "SMILELab-FL",
             "repo": "FedLab",
-            "stars": 829,
+            "stars": 828,
             "topics": [
               "deep-learning",
               "federated-learning",
@@ -553,11 +553,11 @@
             "id": 181436799,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-28T03:46:12Z",
-            "open_issues": 42,
+            "last_commit": "2026-08-31T09:08:05Z",
+            "open_issues": 43,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 15994,
+            "stars": 16001,
             "topics": [
               "arm",
               "convolution",
@@ -750,7 +750,7 @@
             "open_issues": 0,
             "owner": "youngfish42",
             "repo": "Awesome-FL",
-            "stars": 2014,
+            "stars": 2012,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T13:12:40.282Z",
+    "last_updated": "2026-08-31T15:19:26.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
