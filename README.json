@@ -49,11 +49,11 @@
                 "id": 181436799,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-31T09:08:05Z",
-                "open_issues": 43,
+                "last_commit": "2026-09-01T10:01:41Z",
+                "open_issues": 44,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16001,
+                "stars": 16007,
                 "topics": [
                   "arm",
                   "convolution",
@@ -109,11 +109,11 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-30T03:33:15Z",
-                "open_issues": 20,
+                "last_commit": "2026-08-31T23:26:40Z",
+                "open_issues": 18,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
-                "stars": 961,
+                "stars": 962,
                 "topics": [
                   "decentralized",
                   "federated-analytics",
@@ -149,7 +149,7 @@
                 "open_issues": 20,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10018,
+                "stars": 10021,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -180,7 +180,7 @@
                 "open_issues": 92,
                 "owner": "secretflow",
                 "repo": "secretflow",
-                "stars": 2697,
+                "stars": 2700,
                 "topics": [
                   "confidential-computing",
                   "data-analysis",
@@ -553,11 +553,11 @@
             "id": 181436799,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T09:08:05Z",
-            "open_issues": 43,
+            "last_commit": "2026-09-01T10:01:41Z",
+            "open_issues": 44,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16001,
+            "stars": 16007,
             "topics": [
               "arm",
               "convolution",
@@ -677,7 +677,7 @@
             "open_issues": 7,
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2092,
+            "stars": 2093,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -708,7 +708,7 @@
             "open_issues": 3,
             "owner": "chaoyanghe",
             "repo": "Awesome-Federated-Learning",
-            "stars": 2018,
+            "stars": 2019,
             "topics": [
               "adversarial-attack-and-defense",
               "communication-efficiency",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T15:19:26.699Z",
+    "last_updated": "2026-09-01T12:42:40.973Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
