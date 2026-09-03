@@ -50,10 +50,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-01T10:01:41Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16014,
+                "stars": 16018,
                 "topics": [
                   "arm",
                   "convolution",
@@ -109,11 +109,11 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T19:01:27Z",
-                "open_issues": 19,
+                "last_commit": "2026-09-03T04:30:18Z",
+                "open_issues": 31,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
-                "stars": 962,
+                "stars": 963,
                 "topics": [
                   "decentralized",
                   "federated-analytics",
@@ -145,11 +145,11 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T10:53:31Z",
+                "last_commit": "2026-09-02T14:37:38Z",
                 "open_issues": 21,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10022,
+                "stars": 10024,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -554,10 +554,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-01T10:01:41Z",
-            "open_issues": 45,
+            "open_issues": 46,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16014,
+            "stars": 16018,
             "topics": [
               "arm",
               "convolution",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T12:15:29.582Z",
+    "last_updated": "2026-09-03T12:13:28.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
