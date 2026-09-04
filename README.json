@@ -49,11 +49,11 @@
                 "id": 181436799,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-01T10:01:41Z",
-                "open_issues": 46,
+                "last_commit": "2026-09-04T09:39:49Z",
+                "open_issues": 47,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16018,
+                "stars": 16020,
                 "topics": [
                   "arm",
                   "convolution",
@@ -109,11 +109,11 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-03T04:30:18Z",
-                "open_issues": 31,
+                "last_commit": "2026-09-04T03:26:57Z",
+                "open_issues": 35,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
-                "stars": 963,
+                "stars": 964,
                 "topics": [
                   "decentralized",
                   "federated-analytics",
@@ -145,11 +145,11 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-02T14:37:38Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-04T11:40:17Z",
+                "open_issues": 22,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10024,
+                "stars": 10025,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -180,7 +180,7 @@
                 "open_issues": 92,
                 "owner": "secretflow",
                 "repo": "secretflow",
-                "stars": 2703,
+                "stars": 2706,
                 "topics": [
                   "confidential-computing",
                   "data-analysis",
@@ -365,7 +365,7 @@
             "open_issues": 36,
             "owner": "TalwalkarLab",
             "repo": "leaf",
-            "stars": 910,
+            "stars": 911,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:53.731Z"
@@ -443,7 +443,7 @@
             "open_issues": 45,
             "owner": "SymbioticLab",
             "repo": "FedScale",
-            "stars": 420,
+            "stars": 421,
             "topics": [
               "benchmark",
               "dataset",
@@ -553,11 +553,11 @@
             "id": 181436799,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T10:01:41Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-04T09:39:49Z",
+            "open_issues": 47,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16018,
+            "stars": 16020,
             "topics": [
               "arm",
               "convolution",
@@ -650,7 +650,7 @@
             "open_issues": 0,
             "owner": "PKU-Chengxu",
             "repo": "FLASH",
-            "stars": 48,
+            "stars": 49,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:53.731Z"
@@ -677,7 +677,7 @@
             "open_issues": 7,
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2093,
+            "stars": 2094,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:13:28.849Z",
+    "last_updated": "2026-09-04T12:14:21.663Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
