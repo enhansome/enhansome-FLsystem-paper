@@ -50,10 +50,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T09:39:49Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16025,
+                "stars": 16033,
                 "topics": [
                   "arm",
                   "convolution",
@@ -86,7 +86,7 @@
                 "open_issues": 18,
                 "owner": "FederatedAI",
                 "repo": "FATE",
-                "stars": 6090,
+                "stars": 6091,
                 "topics": [
                   "algorithm",
                   "fate",
@@ -110,7 +110,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T20:51:59Z",
-                "open_issues": 37,
+                "open_issues": 39,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
                 "stars": 964,
@@ -149,7 +149,7 @@
                 "open_issues": 22,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10024,
+                "stars": 10027,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -554,10 +554,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T09:39:49Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16025,
+            "stars": 16033,
             "topics": [
               "arm",
               "convolution",
@@ -677,7 +677,7 @@
             "open_issues": 7,
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2094,
+            "stars": 2095,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T11:22:24.173Z",
+    "last_updated": "2026-09-06T11:44:03.055Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
