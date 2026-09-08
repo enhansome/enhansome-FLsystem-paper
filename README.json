@@ -50,10 +50,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-04T09:39:49Z",
-                "open_issues": 49,
+                "open_issues": 52,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16039,
+                "stars": 16043,
                 "topics": [
                   "arm",
                   "convolution",
@@ -145,11 +145,11 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-07T13:31:47Z",
-                "open_issues": 21,
+                "last_commit": "2026-09-08T09:25:07Z",
+                "open_issues": 8,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10027,
+                "stars": 10028,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -415,7 +415,7 @@
             "open_issues": 6,
             "owner": "LatticeX-Foundation",
             "repo": "Rosetta",
-            "stars": 550,
+            "stars": 551,
             "topics": [
               "federated-learning",
               "homomorphic-encryption",
@@ -554,10 +554,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T09:39:49Z",
-            "open_issues": 49,
+            "open_issues": 52,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16039,
+            "stars": 16043,
             "topics": [
               "arm",
               "convolution",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T13:38:52.932Z",
+    "last_updated": "2026-09-08T12:15:47.600Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
