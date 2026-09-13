@@ -50,10 +50,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-11T09:41:45Z",
-                "open_issues": 44,
+                "open_issues": 47,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16069,
+                "stars": 16076,
                 "topics": [
                   "arm",
                   "convolution",
@@ -109,11 +109,11 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T23:54:16Z",
-                "open_issues": 28,
+                "last_commit": "2026-09-13T03:02:26Z",
+                "open_issues": 30,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
-                "stars": 966,
+                "stars": 968,
                 "topics": [
                   "decentralized",
                   "federated-analytics",
@@ -180,7 +180,7 @@
                 "open_issues": 92,
                 "owner": "secretflow",
                 "repo": "secretflow",
-                "stars": 2707,
+                "stars": 2708,
                 "topics": [
                   "confidential-computing",
                   "data-analysis",
@@ -213,7 +213,7 @@
                 "open_issues": 79,
                 "owner": "bytedance",
                 "repo": "fedlearner",
-                "stars": 901,
+                "stars": 900,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.731Z"
@@ -554,10 +554,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T09:41:45Z",
-            "open_issues": 44,
+            "open_issues": 47,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16069,
+            "stars": 16076,
             "topics": [
               "arm",
               "convolution",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T11:42:07.691Z",
+    "last_updated": "2026-09-13T12:49:18.454Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
