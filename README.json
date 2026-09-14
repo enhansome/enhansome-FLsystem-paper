@@ -49,11 +49,11 @@
                 "id": 181436799,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T09:41:45Z",
-                "open_issues": 47,
+                "last_commit": "2026-09-14T08:40:50Z",
+                "open_issues": 38,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16076,
+                "stars": 16082,
                 "topics": [
                   "arm",
                   "convolution",
@@ -145,11 +145,11 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-11T18:09:35Z",
-                "open_issues": 12,
+                "last_commit": "2026-09-13T23:38:49Z",
+                "open_issues": 13,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10031,
+                "stars": 10030,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -553,11 +553,11 @@
             "id": 181436799,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T09:41:45Z",
-            "open_issues": 47,
+            "last_commit": "2026-09-14T08:40:50Z",
+            "open_issues": 38,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16076,
+            "stars": 16082,
             "topics": [
               "arm",
               "convolution",
@@ -750,7 +750,7 @@
             "open_issues": 0,
             "owner": "youngfish42",
             "repo": "Awesome-FL",
-            "stars": 2012,
+            "stars": 2014,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T12:49:18.454Z",
+    "last_updated": "2026-09-14T14:22:16.222Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
