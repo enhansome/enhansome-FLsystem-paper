@@ -49,11 +49,11 @@
                 "id": 181436799,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T12:21:34Z",
+                "last_commit": "2026-09-17T12:23:08Z",
                 "open_issues": 31,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16094,
+                "stars": 16100,
                 "topics": [
                   "arm",
                   "convolution",
@@ -109,8 +109,8 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T01:07:12Z",
-                "open_issues": 33,
+                "last_commit": "2026-09-17T10:18:13Z",
+                "open_issues": 37,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
                 "stars": 969,
@@ -145,8 +145,8 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-16T12:43:27Z",
-                "open_issues": 14,
+                "last_commit": "2026-09-17T10:33:38Z",
+                "open_issues": 15,
                 "owner": "OpenMined",
                 "repo": "PySyft",
                 "stars": 10031,
@@ -553,11 +553,11 @@
             "id": 181436799,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T12:21:34Z",
+            "last_commit": "2026-09-17T12:23:08Z",
             "open_issues": 31,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16094,
+            "stars": 16100,
             "topics": [
               "arm",
               "convolution",
@@ -590,7 +590,7 @@
             "open_issues": 14,
             "owner": "google-parfait",
             "repo": "federated-compute",
-            "stars": 110,
+            "stars": 111,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:53.731Z"
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T12:46:55.236Z",
+    "last_updated": "2026-09-17T12:44:35.068Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
