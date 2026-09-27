@@ -53,7 +53,7 @@
                 "open_issues": 38,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16144,
+                "stars": 16148,
                 "topics": [
                   "arm",
                   "convolution",
@@ -86,7 +86,7 @@
                 "open_issues": 17,
                 "owner": "FederatedAI",
                 "repo": "FATE",
-                "stars": 6097,
+                "stars": 6098,
                 "topics": [
                   "algorithm",
                   "fate",
@@ -149,7 +149,7 @@
                 "open_issues": 22,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10036,
+                "stars": 10038,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -557,7 +557,7 @@
             "open_issues": 38,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16144,
+            "stars": 16148,
             "topics": [
               "arm",
               "convolution",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T12:23:07.278Z",
+    "last_updated": "2026-09-27T13:14:50.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
