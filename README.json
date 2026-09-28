@@ -50,10 +50,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-23T09:26:40Z",
-                "open_issues": 38,
+                "open_issues": 39,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16148,
+                "stars": 16152,
                 "topics": [
                   "arm",
                   "convolution",
@@ -113,7 +113,7 @@
                 "open_issues": 42,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
-                "stars": 975,
+                "stars": 974,
                 "topics": [
                   "decentralized",
                   "federated-analytics",
@@ -145,8 +145,8 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-09-25T23:41:00Z",
-                "open_issues": 22,
+                "last_commit": "2026-09-28T07:40:18Z",
+                "open_issues": 21,
                 "owner": "OpenMined",
                 "repo": "PySyft",
                 "stars": 10038,
@@ -554,10 +554,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-23T09:26:40Z",
-            "open_issues": 38,
+            "open_issues": 39,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16148,
+            "stars": 16152,
             "topics": [
               "arm",
               "convolution",
@@ -650,7 +650,7 @@
             "open_issues": 0,
             "owner": "PKU-Chengxu",
             "repo": "FLASH",
-            "stars": 49,
+            "stars": 48,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:53.731Z"
@@ -677,7 +677,7 @@
             "open_issues": 7,
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2094,
+            "stars": 2093,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T13:14:50.903Z",
+    "last_updated": "2026-09-28T15:48:59.024Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
