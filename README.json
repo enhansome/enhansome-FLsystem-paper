@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Microsoft: FLUTE: A Scalable, Extensible Framework for High-Performance Federated Learning Simulations |",
-              "description": ",",
+              "description": "microsoft/msrflute",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -40,7 +40,7 @@
             {
               "node_type": "item",
               "title": "Alibaba-3: Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning |",
-              "description": ", 🎓",
+              "description": "alibaba/MNN",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -50,10 +50,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T03:26:53Z",
-                "open_issues": 44,
+                "open_issues": 46,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16167,
+                "stars": 16166,
                 "topics": [
                   "arm",
                   "convolution",
@@ -100,7 +100,7 @@
             {
               "node_type": "item",
               "title": "Nvidia: Federated Learning for Healthcare Using NVIDIA Clara |",
-              "description": ",",
+              "description": "NVIDIA/NVFlare",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -109,7 +109,7 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-01T22:30:32Z",
+                "last_commit": "2026-10-02T21:57:30Z",
                 "open_issues": 50,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
@@ -136,7 +136,7 @@
             {
               "node_type": "item",
               "title": "OpenMined: PySyft |",
-              "description": null,
+              "description": "OpenMined/PySyft",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -146,7 +146,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T12:38:07Z",
-                "open_issues": 29,
+                "open_issues": 31,
                 "owner": "OpenMined",
                 "repo": "PySyft",
                 "stars": 10041,
@@ -167,7 +167,7 @@
             {
               "node_type": "item",
               "title": "Ant: SecretFlow |",
-              "description": null,
+              "description": "secretflow/secretflow",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -177,7 +177,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-04-24T07:57:55Z",
-                "open_issues": 93,
+                "open_issues": 92,
                 "owner": "secretflow",
                 "repo": "secretflow",
                 "stars": 2715,
@@ -200,7 +200,7 @@
             {
               "node_type": "item",
               "title": "ByteDance: Fedlearner |",
-              "description": null,
+              "description": "bytedance/fedlearner",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -221,7 +221,7 @@
             {
               "node_type": "item",
               "title": "Baidu: Paddle |",
-              "description": null,
+              "description": "PaddlePaddle/PaddleFL",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -242,7 +242,7 @@
             {
               "node_type": "item",
               "title": "Meta: FLSim |",
-              "description": null,
+              "description": "facebookresearch/FLSim",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -263,7 +263,7 @@
             {
               "node_type": "item",
               "title": "Cisco: Flame |",
-              "description": null,
+              "description": "cisco-open/flame",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -284,7 +284,7 @@
             {
               "node_type": "item",
               "title": "ZTE: Neursaf FL |",
-              "description": null,
+              "description": "YanshiShield/YanshiShield",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -312,7 +312,7 @@
             {
               "node_type": "item",
               "title": "OpenMined: PyVertical",
-              "description": ",",
+              "description": "OpenMined/PyVertical",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -544,7 +544,7 @@
         {
           "node_type": "item",
           "title": "Alibaba: MNN |",
-          "description": null,
+          "description": "alibaba/MNN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -554,10 +554,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T03:26:53Z",
-            "open_issues": 44,
+            "open_issues": 46,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16167,
+            "stars": 16166,
             "topics": [
               "arm",
               "convolution",
@@ -577,7 +577,7 @@
         {
           "node_type": "item",
           "title": "Google: TFlite |",
-          "description": ",",
+          "description": "google-parfait/federated-compute",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -604,7 +604,7 @@
         {
           "node_type": "item",
           "title": "Differential Privacy reading list |",
-          "description": null,
+          "description": "JeffffffFu/Awesome-Differential-Privacy-and-Meachine-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -637,7 +637,7 @@
         {
           "node_type": "item",
           "title": "Mobile availability (client behavior) trace | Characterizing impacts of heterogeneity in federated learning upon large-scale smartphone data.",
-          "description": null,
+          "description": "PKU-Chengxu/FLASH",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -664,7 +664,7 @@
         {
           "node_type": "item",
           "title": "innovation-cat/Awesome-Federated-Machine-Learning",
-          "description": null,
+          "description": "innovation-cat/Awesome-Federated-Machine-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -695,7 +695,7 @@
         {
           "node_type": "item",
           "title": "chaoyanghe/Awesome-Federated-Learning",
-          "description": null,
+          "description": "chaoyanghe/Awesome-Federated-Learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -708,7 +708,7 @@
             "open_issues": 3,
             "owner": "chaoyanghe",
             "repo": "Awesome-Federated-Learning",
-            "stars": 2021,
+            "stars": 2022,
             "topics": [
               "adversarial-attack-and-defense",
               "communication-efficiency",
@@ -737,7 +737,7 @@
         {
           "node_type": "item",
           "title": "youngfish42/Awesome-FL",
-          "description": null,
+          "description": "youngfish42/Awesome-FL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -746,7 +746,7 @@
             "id": 494658282,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-05-20T12:48:40Z",
+            "last_commit": "2026-10-03T04:00:05Z",
             "open_issues": 0,
             "owner": "youngfish42",
             "repo": "Awesome-FL",
@@ -779,7 +779,7 @@
         {
           "node_type": "item",
           "title": "weimingwill/awesome-federated-learning",
-          "description": null,
+          "description": "weimingwill/awesome-federated-learning",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -792,7 +792,7 @@
             "open_issues": 0,
             "owner": "weimingwill",
             "repo": "awesome-federated-learning",
-            "stars": 739,
+            "stars": 738,
             "topics": [
               "communication-efficiency",
               "data-privacy",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T14:03:35.081Z",
+    "last_updated": "2026-10-03T04:31:48.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
