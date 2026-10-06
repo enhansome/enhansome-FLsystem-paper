@@ -53,7 +53,7 @@
                 "open_issues": 53,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16173,
+                "stars": 16177,
                 "topics": [
                   "arm",
                   "convolution",
@@ -109,7 +109,7 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T15:38:59Z",
+                "last_commit": "2026-10-05T22:54:25Z",
                 "open_issues": 57,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
@@ -146,10 +146,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-05T14:11:17Z",
-                "open_issues": 32,
+                "open_issues": 31,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10041,
+                "stars": 10040,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -557,7 +557,7 @@
             "open_issues": 53,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16173,
+            "stars": 16177,
             "topics": [
               "arm",
               "convolution",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T16:19:42.366Z",
+    "last_updated": "2026-10-06T10:20:28.424Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
