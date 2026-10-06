@@ -53,7 +53,7 @@
                 "open_issues": 53,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16177,
+                "stars": 16179,
                 "topics": [
                   "arm",
                   "convolution",
@@ -180,7 +180,7 @@
                 "open_issues": 92,
                 "owner": "secretflow",
                 "repo": "secretflow",
-                "stars": 2714,
+                "stars": 2715,
                 "topics": [
                   "confidential-computing",
                   "data-analysis",
@@ -557,7 +557,7 @@
             "open_issues": 53,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16177,
+            "stars": 16179,
             "topics": [
               "arm",
               "convolution",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:20:28.424Z",
+    "last_updated": "2026-10-06T14:25:24.678Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",

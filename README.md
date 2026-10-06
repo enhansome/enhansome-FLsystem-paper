@@ -39,7 +39,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 > Federated Analytics
 
-* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 16,177 | 🐛 53 | 🌐 C++ | 📅 2026-09-30 🎓
+* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 16,179 | 🐛 53 | 🌐 C++ | 📅 2026-09-30 🎓
 * **LinkedIn**: LinkedIn's Audience Engagements API: A Privacy Preserving Data Analytics System at Scale |
   [`PDF`](https://arxiv.org/abs/2002.05839)
 
@@ -52,7 +52,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 ### Framework
 
 * OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft) ⭐ 10,040 | 🐛 31 | 🌐 Python | 📅 2026-10-05
-* Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow) ⭐ 2,714 | 🐛 92 | 🌐 Python | 📅 2026-04-24
+* Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow) ⭐ 2,715 | 🐛 92 | 🌐 Python | 📅 2026-04-24
 * ByteDance: Fedlearner | [`Github`](https://github.com/bytedance/fedlearner) ⭐ 901 | 🐛 79 | 🌐 Python | 📅 2026-07-06
 * Baidu: Paddle | [`Github`](https://github.com/PaddlePaddle/PaddleFL) ⭐ 512 | 🐛 56 | 🌐 Python | 📅 2023-07-26
 * Meta: FLSim | [`Github`](https://github.com/facebookresearch/FLSim) ⚠️ Archived
@@ -90,7 +90,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ## Edge / Mobile
 
-* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 16,177 | 🐛 53 | 🌐 C++ | 📅 2026-09-30
+* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 16,179 | 🐛 53 | 🌐 C++ | 📅 2026-09-30
 * Google: TFlite | [`Github`](https://www.tensorflow.org/lite/examples/on_device_training/overview), [`Github`](https://github.com/google/federated-compute) ⭐ 111 | 🐛 14 | 🌐 C++ | 📅 2026-10-01
 * MIT: Tiny Training Engine | [`Github`](https://tinytraining.mit.edu/)
 * [Private Compute Core Architecture](https://arxiv.org/pdf/2209.10317.pdf)
