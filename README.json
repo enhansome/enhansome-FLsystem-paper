@@ -53,7 +53,7 @@
                 "open_issues": 53,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16179,
+                "stars": 16187,
                 "topics": [
                   "arm",
                   "convolution",
@@ -109,8 +109,8 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T22:54:25Z",
-                "open_issues": 57,
+                "last_commit": "2026-10-06T22:56:00Z",
+                "open_issues": 59,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
                 "stars": 981,
@@ -145,11 +145,11 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T14:11:17Z",
-                "open_issues": 31,
+                "last_commit": "2026-10-07T14:27:39Z",
+                "open_issues": 11,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10040,
+                "stars": 10039,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -180,7 +180,7 @@
                 "open_issues": 92,
                 "owner": "secretflow",
                 "repo": "secretflow",
-                "stars": 2715,
+                "stars": 2714,
                 "topics": [
                   "confidential-computing",
                   "data-analysis",
@@ -325,7 +325,7 @@
                 "open_issues": 20,
                 "owner": "OpenMined",
                 "repo": "PyVertical",
-                "stars": 222,
+                "stars": 221,
                 "topics": [
                   "federated-learning",
                   "partitioned-data",
@@ -557,7 +557,7 @@
             "open_issues": 53,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16179,
+            "stars": 16187,
             "topics": [
               "arm",
               "convolution",
@@ -590,7 +590,7 @@
             "open_issues": 14,
             "owner": "google-parfait",
             "repo": "federated-compute",
-            "stars": 111,
+            "stars": 108,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:53.731Z"
@@ -677,7 +677,7 @@
             "open_issues": 7,
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2098,
+            "stars": 2099,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -750,7 +750,7 @@
             "open_issues": 0,
             "owner": "youngfish42",
             "repo": "Awesome-FL",
-            "stars": 2015,
+            "stars": 2016,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T14:25:24.678Z",
+    "last_updated": "2026-10-07T14:42:21.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
