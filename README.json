@@ -50,10 +50,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-10T03:26:56Z",
-                "open_issues": 48,
+                "open_issues": 53,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16205,
+                "stars": 16208,
                 "topics": [
                   "arm",
                   "convolution",
@@ -86,7 +86,7 @@
                 "open_issues": 17,
                 "owner": "FederatedAI",
                 "repo": "FATE",
-                "stars": 6103,
+                "stars": 6104,
                 "topics": [
                   "algorithm",
                   "fate",
@@ -554,10 +554,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-10T03:26:56Z",
-            "open_issues": 48,
+            "open_issues": 53,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16205,
+            "stars": 16208,
             "topics": [
               "arm",
               "convolution",
@@ -677,7 +677,7 @@
             "open_issues": 7,
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2099,
+            "stars": 2100,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -750,7 +750,7 @@
             "open_issues": 0,
             "owner": "youngfish42",
             "repo": "Awesome-FL",
-            "stars": 2016,
+            "stars": 2017,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T13:56:28.382Z",
+    "last_updated": "2026-10-11T14:18:52.933Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
