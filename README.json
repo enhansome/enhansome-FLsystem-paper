@@ -49,11 +49,11 @@
                 "id": 181436799,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T03:26:56Z",
-                "open_issues": 53,
+                "last_commit": "2026-10-12T09:58:47Z",
+                "open_issues": 42,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16208,
+                "stars": 16211,
                 "topics": [
                   "arm",
                   "convolution",
@@ -86,7 +86,7 @@
                 "open_issues": 17,
                 "owner": "FederatedAI",
                 "repo": "FATE",
-                "stars": 6104,
+                "stars": 6106,
                 "topics": [
                   "algorithm",
                   "fate",
@@ -110,7 +110,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T23:29:28Z",
-                "open_issues": 45,
+                "open_issues": 46,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
                 "stars": 981,
@@ -146,10 +146,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T15:23:49Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10040,
+                "stars": 10041,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -386,7 +386,7 @@
             "open_issues": 8,
             "owner": "SMILELab-FL",
             "repo": "FedLab",
-            "stars": 828,
+            "stars": 827,
             "topics": [
               "deep-learning",
               "federated-learning",
@@ -553,11 +553,11 @@
             "id": 181436799,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T03:26:56Z",
-            "open_issues": 53,
+            "last_commit": "2026-10-12T09:58:47Z",
+            "open_issues": 42,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16208,
+            "stars": 16211,
             "topics": [
               "arm",
               "convolution",
@@ -617,7 +617,7 @@
             "open_issues": 0,
             "owner": "JeffffffFu",
             "repo": "Awesome-Differential-Privacy-and-Meachine-Learning",
-            "stars": 387,
+            "stars": 386,
             "topics": [
               "deep-learning",
               "differential-privacy",
@@ -750,7 +750,7 @@
             "open_issues": 0,
             "owner": "youngfish42",
             "repo": "Awesome-FL",
-            "stars": 2017,
+            "stars": 2018,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T14:18:52.933Z",
+    "last_updated": "2026-10-12T16:56:04.986Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
