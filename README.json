@@ -50,10 +50,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-12T09:58:47Z",
-                "open_issues": 42,
+                "open_issues": 47,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16211,
+                "stars": 16214,
                 "topics": [
                   "arm",
                   "convolution",
@@ -109,8 +109,8 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T23:29:28Z",
-                "open_issues": 46,
+                "last_commit": "2026-10-12T22:01:34Z",
+                "open_issues": 49,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
                 "stars": 981,
@@ -554,10 +554,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-12T09:58:47Z",
-            "open_issues": 42,
+            "open_issues": 47,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16211,
+            "stars": 16214,
             "topics": [
               "arm",
               "convolution",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T16:56:04.986Z",
+    "last_updated": "2026-10-13T15:13:55.085Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",

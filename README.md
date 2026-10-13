@@ -39,14 +39,14 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 > Federated Analytics
 
-* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 16,211 | 🐛 42 | 🌐 C++ | 📅 2026-10-12 🎓
+* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 16,214 | 🐛 47 | 🌐 C++ | 📅 2026-10-12 🎓
 * **LinkedIn**: LinkedIn's Audience Engagements API: A Privacy Preserving Data Analytics System at Scale |
   [`PDF`](https://arxiv.org/abs/2002.05839)
 
 > Cross-silo
 
 * **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`FATE`](https://github.com/FederatedAI/FATE) ⭐ 6,106 | 🐛 17 | 🌐 Python | 📅 2024-11-19, [`KubeFATE`](https://github.com/FederatedAI/KubeFATE) ⭐ 435 | 🐛 83 | 🌐 Go | 📅 2024-10-31, [FATE-FLOW](https://federatedai.github.io/FATE-Flow/latest/fate_flow/), [FATE-LLM](https://arxiv.org/pdf/2310.10049.pdf)
-* **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf), [`Github`](https://github.com/NVIDIA/NVFlare) ⭐ 981 | 🐛 46 | 🌐 Python | 📅 2026-10-09
+* **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf), [`Github`](https://github.com/NVIDIA/NVFlare) ⭐ 981 | 🐛 49 | 🌐 Python | 📅 2026-10-12
 * **IBM**: IBM Federated Learning: An Enterprise Framework White Paper | [`PDF`](https://arxiv.org/pdf/2007.10987.pdf), [`Github`](https://ibmfl.mybluemix.net/github)
 
 ### Framework
@@ -90,7 +90,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ## Edge / Mobile
 
-* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 16,211 | 🐛 42 | 🌐 C++ | 📅 2026-10-12
+* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 16,214 | 🐛 47 | 🌐 C++ | 📅 2026-10-12
 * Google: TFlite | [`Github`](https://www.tensorflow.org/lite/examples/on_device_training/overview), [`Github`](https://github.com/google/federated-compute) ⭐ 108 | 🐛 14 | 🌐 C++ | 📅 2026-10-08
 * MIT: Tiny Training Engine | [`Github`](https://tinytraining.mit.edu/)
 * [Private Compute Core Architecture](https://arxiv.org/pdf/2209.10317.pdf)
@@ -184,4 +184,4 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
