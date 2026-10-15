@@ -49,11 +49,11 @@
                 "id": 181436799,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T08:35:25Z",
-                "open_issues": 47,
+                "last_commit": "2026-10-15T12:19:38Z",
+                "open_issues": 41,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16220,
+                "stars": 16224,
                 "topics": [
                   "arm",
                   "convolution",
@@ -86,7 +86,7 @@
                 "open_issues": 17,
                 "owner": "FederatedAI",
                 "repo": "FATE",
-                "stars": 6107,
+                "stars": 6106,
                 "topics": [
                   "algorithm",
                   "fate",
@@ -109,8 +109,8 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-14T01:06:31Z",
-                "open_issues": 53,
+                "last_commit": "2026-10-15T00:26:11Z",
+                "open_issues": 48,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
                 "stars": 981,
@@ -145,11 +145,11 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-13T16:31:13Z",
-                "open_issues": 11,
+                "last_commit": "2026-10-14T16:24:49Z",
+                "open_issues": 12,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10043,
+                "stars": 10044,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -365,7 +365,7 @@
             "open_issues": 36,
             "owner": "TalwalkarLab",
             "repo": "leaf",
-            "stars": 911,
+            "stars": 910,
             "topics": []
           },
           "first_seen": "2026-08-28T19:33:53.731Z"
@@ -553,11 +553,11 @@
             "id": 181436799,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-14T08:35:25Z",
-            "open_issues": 47,
+            "last_commit": "2026-10-15T12:19:38Z",
+            "open_issues": 41,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16220,
+            "stars": 16224,
             "topics": [
               "arm",
               "convolution",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T13:01:29.567Z",
+    "last_updated": "2026-10-15T12:48:19.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
