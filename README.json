@@ -50,10 +50,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-16T07:11:57Z",
-                "open_issues": 47,
+                "open_issues": 48,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16232,
+                "stars": 16238,
                 "topics": [
                   "arm",
                   "convolution",
@@ -554,10 +554,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T07:11:57Z",
-            "open_issues": 47,
+            "open_issues": 48,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16232,
+            "stars": 16238,
             "topics": [
               "arm",
               "convolution",
@@ -746,8 +746,8 @@
             "id": 494658282,
             "language": "Python",
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-10-17T09:06:03Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-18T01:59:24Z",
+            "open_issues": 0,
             "owner": "youngfish42",
             "repo": "Awesome-FL",
             "stars": 2020,
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T11:43:21.410Z",
+    "last_updated": "2026-10-18T12:09:39.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
