@@ -50,10 +50,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T09:37:51Z",
-                "open_issues": 64,
+                "open_issues": 67,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16274,
+                "stars": 16275,
                 "topics": [
                   "arm",
                   "convolution",
@@ -86,7 +86,7 @@
                 "open_issues": 17,
                 "owner": "FederatedAI",
                 "repo": "FATE",
-                "stars": 6108,
+                "stars": 6109,
                 "topics": [
                   "algorithm",
                   "fate",
@@ -109,11 +109,11 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-22T22:50:05Z",
-                "open_issues": 68,
+                "last_commit": "2026-10-24T07:37:01Z",
+                "open_issues": 73,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
-                "stars": 988,
+                "stars": 990,
                 "topics": [
                   "decentralized",
                   "federated-analytics",
@@ -145,11 +145,11 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-23T11:11:07Z",
-                "open_issues": 10,
+                "last_commit": "2026-10-24T01:14:13Z",
+                "open_issues": 14,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10046,
+                "stars": 10045,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -554,10 +554,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T09:37:51Z",
-            "open_issues": 64,
+            "open_issues": 67,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16274,
+            "stars": 16275,
             "topics": [
               "arm",
               "convolution",
@@ -677,7 +677,7 @@
             "open_issues": 8,
             "owner": "innovation-cat",
             "repo": "Awesome-Federated-Machine-Learning",
-            "stars": 2103,
+            "stars": 2102,
             "topics": [
               "computer-vision",
               "deep-learning",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T12:48:46.632Z",
+    "last_updated": "2026-10-24T12:10:48.448Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
