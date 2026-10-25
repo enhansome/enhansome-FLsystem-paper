@@ -53,7 +53,7 @@
                 "open_issues": 67,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16275,
+                "stars": 16276,
                 "topics": [
                   "arm",
                   "convolution",
@@ -86,7 +86,7 @@
                 "open_issues": 17,
                 "owner": "FederatedAI",
                 "repo": "FATE",
-                "stars": 6109,
+                "stars": 6110,
                 "topics": [
                   "algorithm",
                   "fate",
@@ -109,11 +109,11 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T07:37:01Z",
-                "open_issues": 73,
+                "last_commit": "2026-10-25T02:58:21Z",
+                "open_issues": 78,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
-                "stars": 990,
+                "stars": 991,
                 "topics": [
                   "decentralized",
                   "federated-analytics",
@@ -145,8 +145,8 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T01:14:13Z",
-                "open_issues": 14,
+                "last_commit": "2026-10-24T15:50:49Z",
+                "open_issues": 15,
                 "owner": "OpenMined",
                 "repo": "PySyft",
                 "stars": 10045,
@@ -557,7 +557,7 @@
             "open_issues": 67,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16275,
+            "stars": 16276,
             "topics": [
               "arm",
               "convolution",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T12:10:48.448Z",
+    "last_updated": "2026-10-25T12:42:46.911Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
