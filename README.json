@@ -50,10 +50,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-04T12:38:45Z",
-                "open_issues": 97,
+                "open_issues": 100,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16352,
+                "stars": 16359,
                 "topics": [
                   "arm",
                   "convolution",
@@ -109,11 +109,11 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T14:42:52Z",
-                "open_issues": 116,
+                "last_commit": "2026-11-04T22:44:49Z",
+                "open_issues": 122,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
-                "stars": 1006,
+                "stars": 1005,
                 "topics": [
                   "decentralized",
                   "federated-analytics",
@@ -145,11 +145,11 @@
                 "id": 97641933,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-04T14:23:51Z",
-                "open_issues": 16,
+                "last_commit": "2026-11-04T20:03:48Z",
+                "open_issues": 18,
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 10050,
+                "stars": 10051,
                 "topics": [
                   "cryptography",
                   "deep-learning",
@@ -554,10 +554,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-04T12:38:45Z",
-            "open_issues": 97,
+            "open_issues": 100,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16352,
+            "stars": 16359,
             "topics": [
               "arm",
               "convolution",
@@ -750,7 +750,7 @@
             "open_issues": 1,
             "owner": "youngfish42",
             "repo": "Awesome-FL",
-            "stars": 2020,
+            "stars": 2019,
             "topics": [
               "artificial-intelligence",
               "awesome",
@@ -816,7 +816,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T15:42:35.329Z",
+    "last_updated": "2026-11-05T15:44:27.756Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
