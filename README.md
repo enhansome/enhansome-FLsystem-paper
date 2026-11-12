@@ -39,20 +39,20 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 > Federated Analytics
 
-* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 16,495 | 🐛 73 | 🌐 C++ | 📅 2026-11-11 🎓
+* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 16,505 | 🐛 79 | 🌐 C++ | 📅 2026-11-12 🎓
 * **LinkedIn**: LinkedIn's Audience Engagements API: A Privacy Preserving Data Analytics System at Scale |
   [`PDF`](https://arxiv.org/abs/2002.05839)
 
 > Cross-silo
 
 * **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`FATE`](https://github.com/FederatedAI/FATE) ⭐ 6,113 | 🐛 17 | 🌐 Python | 📅 2024-11-19, [`KubeFATE`](https://github.com/FederatedAI/KubeFATE) ⭐ 437 | 🐛 83 | 🌐 Go | 📅 2024-10-31, [FATE-FLOW](https://federatedai.github.io/FATE-Flow/latest/fate_flow/), [FATE-LLM](https://arxiv.org/pdf/2310.10049.pdf)
-* **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf), [`Github`](https://github.com/NVIDIA/NVFlare) ⭐ 1,013 | 🐛 113 | 🌐 Python | 📅 2026-11-11
+* **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf), [`Github`](https://github.com/NVIDIA/NVFlare) ⭐ 1,014 | 🐛 110 | 🌐 Python | 📅 2026-11-12
 * **IBM**: IBM Federated Learning: An Enterprise Framework White Paper | [`PDF`](https://arxiv.org/pdf/2007.10987.pdf), [`Github`](https://ibmfl.mybluemix.net/github)
 
 ### Framework
 
-* OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft) ⭐ 10,056 | 🐛 21 | 🌐 Python | 📅 2026-11-11
-* Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow) ⭐ 2,718 | 🐛 92 | 🌐 Python | 📅 2026-04-24
+* OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft) ⭐ 10,056 | 🐛 20 | 🌐 Python | 📅 2026-11-12
+* Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow) ⭐ 2,719 | 🐛 92 | 🌐 Python | 📅 2026-04-24
 * ByteDance: Fedlearner | [`Github`](https://github.com/bytedance/fedlearner) ⭐ 898 | 🐛 78 | 🌐 Python | 📅 2026-07-06
 * Baidu: Paddle | [`Github`](https://github.com/PaddlePaddle/PaddleFL) ⭐ 511 | 🐛 56 | 🌐 Python | 📅 2023-07-26
 * Meta: FLSim | [`Github`](https://github.com/facebookresearch/FLSim) ⚠️ Archived
@@ -90,7 +90,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ## Edge / Mobile
 
-* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 16,495 | 🐛 73 | 🌐 C++ | 📅 2026-11-11
+* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 16,505 | 🐛 79 | 🌐 C++ | 📅 2026-11-12
 * Google: TFlite | [`Github`](https://www.tensorflow.org/lite/examples/on_device_training/overview), [`Github`](https://github.com/google/federated-compute) ⭐ 106 | 🐛 14 | 🌐 C++ | 📅 2026-11-10
 * MIT: Tiny Training Engine | [`Github`](https://tinytraining.mit.edu/)
 * [Private Compute Core Architecture](https://arxiv.org/pdf/2209.10317.pdf)
@@ -177,11 +177,11 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ## Other FL paper list
 
-* <https://github.com/innovation-cat/Awesome-Federated-Machine-Learning> ⭐ 2,104 | 🐛 9 | 📅 2024-05-30
+* <https://github.com/innovation-cat/Awesome-Federated-Machine-Learning> ⭐ 2,103 | 🐛 9 | 📅 2024-05-30
 * <https://github.com/chaoyanghe/Awesome-Federated-Learning> ⭐ 2,023 | 🐛 5 | 📅 2022-09-03
-* <https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data#federated-learning-framework> ⭐ 2,019 | 🐛 0 | 🌐 Python | 📅 2026-11-11
+* <https://github.com/youngfish42/Awesome-Federated-Learning-on-Graph-and-Tabular-Data#federated-learning-framework> ⭐ 2,018 | 🐛 0 | 🌐 Python | 📅 2026-11-11
 * <https://github.com/weimingwill/awesome-federated-learning#resource-allocation> ⭐ 738 | 🐛 1 | 🌐 Shell | 📅 2025-11-16
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
