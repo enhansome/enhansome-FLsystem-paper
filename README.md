@@ -39,24 +39,24 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 > Federated Analytics
 
-* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 16,615 | 🐛 111 | 🌐 C++ | 📅 2026-11-24 🎓
+* **Alibaba-3**:  Walle: An End-to-End, General-Purpose, and Large-Scale Production System for Device-Cloud Collaborative Machine Learning | [`PDF`](https://www.usenix.org/system/files/osdi22-lv.pdf), [`Github`](https://github.com/alibaba/MNN) ⭐ 16,622 | 🐛 115 | 🌐 C++ | 📅 2026-11-25 🎓
 * **LinkedIn**: LinkedIn's Audience Engagements API: A Privacy Preserving Data Analytics System at Scale |
   [`PDF`](https://arxiv.org/abs/2002.05839)
 
 > Cross-silo
 
 * **WeBank**:  Federated Learning White Paper V1.0 | [`PDF`](​​https://aisp-1251170195.cos.ap-hongkong.myqcloud.com/fedweb/1552917186945.pdf),  [`FATE`](https://github.com/FederatedAI/FATE) ⭐ 6,111 | 🐛 20 | 🌐 Python | 📅 2026-11-23, [`KubeFATE`](https://github.com/FederatedAI/KubeFATE) ⭐ 436 | 🐛 85 | 🌐 Go | 📅 2024-10-31, [FATE-FLOW](https://federatedai.github.io/FATE-Flow/latest/fate_flow/), [FATE-LLM](https://arxiv.org/pdf/2310.10049.pdf)
-* **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf), [`Github`](https://github.com/NVIDIA/NVFlare) ⭐ 1,017 | 🐛 132 | 🌐 Python | 📅 2026-11-24
+* **Nvidia**:  Federated Learning for Healthcare Using NVIDIA *Clara* | [`PDF`](https://developer.download.nvidia.com/CLARA/Federated-Learning-Training-for-Healthcare-Using-NVIDIA-Clara.pdf), [`Github`](https://github.com/NVIDIA/NVFlare) ⭐ 1,017 | 🐛 124 | 🌐 Python | 📅 2026-11-25
 * **IBM**: IBM Federated Learning: An Enterprise Framework White Paper | [`PDF`](https://arxiv.org/pdf/2007.10987.pdf), [`Github`](https://ibmfl.mybluemix.net/github)
 
 ### Framework
 
-* OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft) ⭐ 10,064 | 🐛 5 | 🌐 Python | 📅 2026-11-24
-* Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow) ⭐ 2,718 | 🐛 92 | 🌐 Python | 📅 2026-04-24
+* OpenMined: PySyft | [`Github`](https://github.com/OpenMined/PySyft) ⭐ 10,064 | 🐛 6 | 🌐 Python | 📅 2026-11-25
+* Ant: SecretFlow | [`Github`](https://github.com/secretflow/secretflow) ⭐ 2,719 | 🐛 92 | 🌐 Python | 📅 2026-04-24
 * ByteDance: Fedlearner | [`Github`](https://github.com/bytedance/fedlearner) ⭐ 898 | 🐛 78 | 🌐 Python | 📅 2026-07-06
 * Baidu: Paddle | [`Github`](https://github.com/PaddlePaddle/PaddleFL) ⭐ 511 | 🐛 56 | 🌐 Python | 📅 2023-07-26
 * Meta: FLSim | [`Github`](https://github.com/facebookresearch/FLSim) ⚠️ Archived
-* Cisco: Flame | [`Github`](https://github.com/cisco-open/flame) ⭐ 59 | 🐛 10 | 🌐 Python | 📅 2025-11-06
+* Cisco: Flame | [`Github`](https://github.com/cisco-open/flame) ⭐ 58 | 🐛 10 | 🌐 Python | 📅 2025-11-06
   * [Federated Learning Operations Made Simple with Flame](https://arxiv.org/abs/2305.05118)
 * ZTE: Neursaf FL | [`Github`](https://github.com/neursafe/federated-learning) ⭐ 26 | 🐛 5 | 🌐 Python | 📅 2024-07-30
 
@@ -90,8 +90,8 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ## Edge / Mobile
 
-* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 16,615 | 🐛 111 | 🌐 C++ | 📅 2026-11-24
-* Google: TFlite | [`Github`](https://www.tensorflow.org/lite/examples/on_device_training/overview), [`Github`](https://github.com/google/federated-compute) ⭐ 106 | 🐛 14 | 🌐 C++ | 📅 2026-11-24
+* Alibaba: MNN | [`Github`](https://github.com/alibaba/MNN) ⭐ 16,622 | 🐛 115 | 🌐 C++ | 📅 2026-11-25
+* Google: TFlite | [`Github`](https://www.tensorflow.org/lite/examples/on_device_training/overview), [`Github`](https://github.com/google/federated-compute) ⭐ 106 | 🐛 14 | 🌐 C++ | 📅 2026-11-25
 * MIT: Tiny Training Engine | [`Github`](https://tinytraining.mit.edu/)
 * [Private Compute Core Architecture](https://arxiv.org/pdf/2209.10317.pdf)
 * Enabling conversational interaction on mobile with LLMs | Google [`Blog`](https://ai.googleblog.com/2023/05/enabling-conversational-interaction-on.html?m=1)
@@ -138,7 +138,7 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 > Privacy
 
-* Differential Privacy reading list | [`Github`](https://github.com/JeffffFu/Awesome-Differential-Privacy-and-Meachine-Learning) ⭐ 385 | 🐛 1 | 🌐 Python | 📅 2025-09-02
+* Differential Privacy reading list | [`Github`](https://github.com/JeffffFu/Awesome-Differential-Privacy-and-Meachine-Learning) ⭐ 384 | 🐛 1 | 🌐 Python | 📅 2025-09-02
 * The Distributed Discrete Gaussian Mechanism for Federated Learning with Secure Aggregation [`PDF`](https://arxiv.org/pdf/2102.06387.pdf)
 
 *incoming*
@@ -184,4 +184,4 @@ Papers with 🎓 have been peer-reviewed and presented in academic conferences.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._
