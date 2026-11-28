@@ -50,10 +50,10 @@
                 "language": "C++",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-27T08:20:46Z",
-                "open_issues": 112,
+                "open_issues": 122,
                 "owner": "alibaba",
                 "repo": "MNN",
-                "stars": 16635,
+                "stars": 16644,
                 "topics": [
                   "arm",
                   "convolution",
@@ -109,8 +109,8 @@
                 "id": 388876833,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-11-26T04:57:01Z",
-                "open_issues": 123,
+                "last_commit": "2026-11-28T05:18:01Z",
+                "open_issues": 124,
                 "owner": "NVIDIA",
                 "repo": "NVFlare",
                 "stars": 1017,
@@ -150,7 +150,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-11-26T15:08:09Z",
-                "open_issues": 6,
+                "open_issues": 7,
                 "owner": "OpenMined",
                 "repo": "PySyft",
                 "stars": 10064,
@@ -217,7 +217,7 @@
                 "open_issues": 78,
                 "owner": "bytedance",
                 "repo": "fedlearner",
-                "stars": 898,
+                "stars": 897,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:33:53.731Z"
@@ -558,10 +558,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-27T08:20:46Z",
-            "open_issues": 112,
+            "open_issues": 122,
             "owner": "alibaba",
             "repo": "MNN",
-            "stars": 16635,
+            "stars": 16644,
             "topics": [
               "arm",
               "convolution",
@@ -820,7 +820,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T17:37:07.232Z",
+    "last_updated": "2026-11-28T16:20:30.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "Federated Learning Systems Paper List",
